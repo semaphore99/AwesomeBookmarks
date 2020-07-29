@@ -14,7 +14,8 @@
  ## App icon in system tray
  - [WPF application with system tray icon - this uses a WinForms API but works](https://stackoverflow.com/questions/1472633/wpf-application-that-only-has-a-tray-icon)
  - [Windows applicatio nnotify icon Context menus](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.notifyicon.contextmenu?view=netframework-4.8)
- - [C# trayicon using wpf](https://stackoverflow.com/questions/12428006/c-sharp-trayicon-using-wpf): this was a nice a simple solution that I ended up using
+ - [C# tray icon using wpf](https://stackoverflow.com/questions/12428006/c-sharp-trayicon-using-wpf): this was a nice a simple solution that I ended up using
+ - [Context menus on tray icon (doc.microsoft)](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.notifyicon.contextmenu?view=netframework-4.8)
  
 ## Targetting another app Window
 This got pieced together from a few different sources:
