@@ -8,7 +8,10 @@
 - [Returning void from C# async methods](https://app.pluralsight.com/guides/returning-void-from-c-async-method)
 - [Timing out a block of code](https://stackoverflow.com/questions/13513650/how-to-set-timeout-for-a-line-of-c-sharp-code)
 
-## Theming
+## Xamarin.Forms
+### Architecture
+- [Enterprise Application Patterns](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/)
+### Theming
 - [Xamarin Application Themes](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/theming/theming)
 
 ## WPF
