@@ -1,5 +1,3 @@
-<!--TOC-->
-
 # C#
 ## Async Programming
 - [Async constructors](https://blog.stephencleary.com/2013/01/async-oop-2-constructors.html)
@@ -37,3 +35,6 @@ This got pieced together from a few different sources:
 
 # Couchbase
 - [Couchbase.Lite API for C#](https://docs.couchbase.com/couchbase-lite/current/csharp.html)
+
+# Identity
+- [Learn Identity video series from Auth0](https://auth0.com/docs/videos/learn-identity-series)
