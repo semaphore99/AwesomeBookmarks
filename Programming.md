@@ -38,3 +38,6 @@ This got pieced together from a few different sources:
 
 # Identity
 - [Learn Identity video series from Auth0](https://auth0.com/docs/videos/learn-identity-series)
+
+# General
+- [Example class design for messenger/chat](https://github.com/yoosuf/Messenger)
