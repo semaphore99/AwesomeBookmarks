@@ -32,6 +32,10 @@ This got pieced together from a few different sources:
 - ObservableCollection is not thread-safe, so here are some solutions:
   - [Thread-safe ObservableCollection (WPF solution)](https://stackoverflow.com/questions/23108045/how-to-make-observablecollection-thread-safe)
   - [SynchronizedObservableCollection from CodeProject](https://www.codeproject.com/tips/998619/thread-safe-observablecollection-t) - note this solution uses ```SynchronizationContext.Send()```, which has been deprecated so [this solution](https://stackoverflow.com/questions/22441499/replacement-for-synchronizationcontext-send-in-portable-class-libraries) to replace the ```.Send()``` calls.
+  
+## Logging
+- [How to get the stack frame](https://www.csharp-examples.net/reflection-callstack/)
+- [NLog](https://github.com/NLog/NLog)
 
 # Couchbase
 - [Couchbase.Lite API for C#](https://docs.couchbase.com/couchbase-lite/current/csharp.html)
