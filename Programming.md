@@ -5,6 +5,7 @@
 - [Another fire and forget article ](https://johnthiriet.com/removing-async-void/)
 - [Returning void from C# async methods](https://app.pluralsight.com/guides/returning-void-from-c-async-method)
 - [Timing out a block of code](https://stackoverflow.com/questions/13513650/how-to-set-timeout-for-a-line-of-c-sharp-code)
+- [Dispatcher.CurrentDispatcher vs. Application.Current.Dispatcher](https://stackoverflow.com/questions/10448987/dispatcher-currentdispatcher-vs-application-current-dispatcher)
 
 ## Xamarin.Forms
 ### Architecture
@@ -15,6 +16,9 @@
 ## WPF
 - [Data validation using IDataErrorInfo](https://www.codeproject.com/tips/858492/wpf-validation-using-idataerrorinfo)
 - [WPF binding cheatsheet](https://www.nbdtech.com/Free/WpfBinding.pdf)
+### Commands
+- [Force update commands](https://stackoverflow.com/questions/783104/refresh-wpf-command) - note this has a performance penalty since it refreshes **ALL** commands and must be called from the UI thread.
+- [Command that 'binds' to a property](https://stackoverflow.com/questions/1751966/commandmanager-invalidaterequerysuggested-isnt-fast-enough-what-can-i-do)
   
  ### App icon in system tray
  - [WPF application with system tray icon - this uses a WinForms API but works](https://stackoverflow.com/questions/1472633/wpf-application-that-only-has-a-tray-icon)
