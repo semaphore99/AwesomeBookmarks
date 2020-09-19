@@ -47,6 +47,8 @@ This got pieced together from a few different sources:
 
 # Identity
 - [Learn Identity video series from Auth0](https://auth0.com/docs/videos/learn-identity-series)
+- [Auth0 quick starts](https://auth0.com/docs/quickstarts)
+- [Secure a .NET Core 3.0 Web API](https://auth0.com/blog/how-to-build-and-secure-web-apis-with-aspnet-core-3/)
 
 # General
 - [Example class design for messenger/chat](https://github.com/yoosuf/Messenger)
