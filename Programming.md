@@ -12,6 +12,8 @@
 - [Enterprise Application Patterns](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/)
 ### Theming
 - [Xamarin Application Themes](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/theming/theming)
+### Debugging
+- [Connecting to locally hosted web services from emulators](https://docs.microsoft.com/en-us/xamarin/cross-platform/deploy-test/connect-to-local-web-services)
 
 ## WPF
 - [Data validation using IDataErrorInfo](https://www.codeproject.com/tips/858492/wpf-validation-using-idataerrorinfo)
