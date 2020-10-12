@@ -39,6 +39,7 @@ This got pieced together from a few different sources:
   - [Thread-safe ObservableCollection (WPF solution)](https://stackoverflow.com/questions/23108045/how-to-make-observablecollection-thread-safe)
   - [SynchronizedObservableCollection from CodeProject](https://www.codeproject.com/tips/998619/thread-safe-observablecollection-t) - note this solution uses ```SynchronizationContext.Send()```, which has been deprecated so [this solution](https://stackoverflow.com/questions/22441499/replacement-for-synchronizationcontext-send-in-portable-class-libraries) to replace the ```.Send()``` calls.
   - [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
+- [IQueryable vs IEnumerable](https://stackoverflow.com/questions/2876616/returning-ienumerablet-vs-iqueryablet)
   
 ## Logging
 - [How to get the stack frame](https://www.csharp-examples.net/reflection-callstack/)
