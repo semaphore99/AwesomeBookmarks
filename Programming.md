@@ -34,6 +34,9 @@ This got pieced together from a few different sources:
 - [How to get and set the window position of another application in C#](https://stackoverflow.com/questions/1364440/how-to-get-and-set-the-window-position-of-another-application-in-c-sharp): Answer from mkelement0 was quite instructive
 - [SetWindowPos function (doc.microsoft)](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowpos)
 
+## Machine Learning/AI
+= [ML.NET documentation](https://docs.microsoft.com/en-us/dotnet/machine-learning/)
+
 ## General
 - ObservableCollection is not thread-safe, so here are some solutions:
   - [Thread-safe ObservableCollection (WPF solution)](https://stackoverflow.com/questions/23108045/how-to-make-observablecollection-thread-safe)
