@@ -37,6 +37,9 @@ This got pieced together from a few different sources:
 ## Machine Learning/AI
 = [ML.NET documentation](https://docs.microsoft.com/en-us/dotnet/machine-learning/)
 
+## ASP.NET Core
+- [Official MS Documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+
 ## General
 - ObservableCollection is not thread-safe, so here are some solutions:
   - [Thread-safe ObservableCollection (WPF solution)](https://stackoverflow.com/questions/23108045/how-to-make-observablecollection-thread-safe)
