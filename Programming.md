@@ -35,7 +35,7 @@ This got pieced together from a few different sources:
 - [SetWindowPos function (doc.microsoft)](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowpos)
 
 ## Machine Learning/AI
-= [ML.NET documentation](https://docs.microsoft.com/en-us/dotnet/machine-learning/)
+- [ML.NET documentation](https://docs.microsoft.com/en-us/dotnet/machine-learning/)
 
 ## ASP.NET Core
 - [Official MS Documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
