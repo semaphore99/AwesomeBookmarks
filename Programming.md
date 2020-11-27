@@ -36,6 +36,7 @@ This got pieced together from a few different sources:
 
 ## Machine Learning/AI
 - [ML.NET documentation](https://docs.microsoft.com/en-us/dotnet/machine-learning/)
+- [GPU acceleration in WSL](https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-accelerated-training)
 
 ## ASP.NET Core
 - [Official MS Documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
