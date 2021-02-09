@@ -32,6 +32,8 @@
 dotnet out/[your-project-name].dll
 ```
 
+- Dockerize an ASP.NET Core Application
+See [instructions at Docker](https://docs.docker.com/engine/examples/dotnetcore/)
 
 # Setting up a Windows Dev Box/Laptop
 - Software
