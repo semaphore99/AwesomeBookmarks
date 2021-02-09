@@ -10,3 +10,11 @@
 
 # Power BI
 - [What is Power BI and Why Should I care?](https://www.youtube.com/watch?v=oLlam_QjQKU&feature=youtu.be)
+
+# Courses
+- [Dataquest.io](https://www.dataquest.io/subscribe/)
+  - Cost: $600 Subscribe - Learn Data Science at Dataquest ($300USD currently)
+- [IBM Data Science Professional Certificate]()
+  - Cost: $1033 @ [edX](https://www.edx.org/professional-certificate/ibm-data-science) or $50/month @ [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=IBM&utm_medium=institutions&utm_campaign=ENDec2018)
+- [UC San Diego Data Science MicroMasters](https://www.edx.org/micromasters/uc-san-diegox-data-science)
+  - Cost: $1641 @ edx 
