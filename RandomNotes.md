@@ -1,4 +1,16 @@
 # .NET Core
+- Installing dotnet runtime on Ubuntu
+  Easiest way to install the .NET Core SDK or runtime is to follow the [Microsoft Instructions](https://docs.microsoft.com/en-au/dotnet/core/install/linux-ubuntu)
+  For brevity, there are the command lines
+  ```
+  wget https://packages.microsoft.com/config/ubuntu/20.10/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+  sudo dpkg -i packages-microsoft-prod.deb
+  sudo apt-get update; \
+  sudo apt-get install -y apt-transport-https && \
+  sudo apt-get update && \
+  sudo apt-get install -y aspnetcore-runtime-5.0
+  ```
+  To install the SDK instead of the run time, use ```dotnet-sdk-5.0``` instead on the last line above.
 - Building and Run a project
   ```
   dotnet restore
