@@ -22,9 +22,10 @@
   ```
 
 - Publish a project
-```
-dotnet publish -c Release -o out
-```
+  ```
+  dotnet publish -c Release -o out
+  ```
+  The contents of the output folder can be copied to another machine and run using just the .NET Core runtime, even if you built/published on Windows and moved the dll's to a Linux box.
 
 - Run the published app
 ```
