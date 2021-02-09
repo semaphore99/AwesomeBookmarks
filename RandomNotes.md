@@ -29,3 +29,5 @@ dotnet out/[your-project-name].dll
   
   
   
+# Non-store Updates for MSIX apps
+https://docs.microsoft.com/en-us/windows/msix/non-store-developer-updates
