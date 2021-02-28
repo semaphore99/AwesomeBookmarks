@@ -67,6 +67,7 @@ This got pieced together from a few different sources:
 - [Secure a .NET Core 3.0 Web API](https://auth0.com/blog/how-to-build-and-secure-web-apis-with-aspnet-core-3/)
 - [Authentication with Xamarin Forms and Auth0](https://purple.telstra.com/blog/authentication-with-xamarin-forms-and-auth0)
 - [Xamarin Forms app showcasing how to use MSAL to authenticate users via Azure Active Directory B2C, and access a Web API with the resulting tokens.](https://github.com/Azure-Samples/active-directory-b2c-xamarin-native)
+- [Developing Mobile Apps with Xamarin Forms and Azure Functions](https://auth0.com/blog/developing-mobile-apps-with-xamarin-forms-and-azure-functions/?_ga=2.113472327.1193994911.1614488287-1138531113.1609821888)
 
 # General
 - [Example class design for messenger/chat](https://github.com/yoosuf/Messenger)
