@@ -49,6 +49,7 @@ This got pieced together from a few different sources:
   - [SynchronizedObservableCollection from CodeProject](https://www.codeproject.com/tips/998619/thread-safe-observablecollection-t) - note this solution uses ```SynchronizationContext.Send()```, which has been deprecated so [this solution](https://stackoverflow.com/questions/22441499/replacement-for-synchronizationcontext-send-in-portable-class-libraries) to replace the ```.Send()``` calls.
   - [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
 - [IQueryable vs IEnumerable](https://stackoverflow.com/questions/2876616/returning-ienumerablet-vs-iqueryablet)
+- [Field vs Property](https://stackoverflow.com/questions/1180860/public-fields-versus-automatic-properties)
 
 ## Solution Architecture
 - [Example Solution Architectures](https://azure.microsoft.com/en-au/solutions/architecture/)
