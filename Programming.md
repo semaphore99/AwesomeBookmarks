@@ -72,3 +72,10 @@ This got pieced together from a few different sources:
 
 # General
 - [Example class design for messenger/chat](https://github.com/yoosuf/Messenger)
+
+# Git
+## Reverting a commit from repository
+1. Make sure you are on the correct branch you want to revert
+2. Figure out which revision you want to revert to: ```git log --pretty=oneline```
+3. Hard reset your local checkout: ```git reset --hard <revision checksum>```
+4. Push your local checkout to the remote so it overwrites remote history with your local history: ```git push --force <remote name> HEAD```
