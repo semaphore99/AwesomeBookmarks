@@ -1,3 +1,8 @@
+# Go
+
+## Go Memory Model
+- [3-part series on Memory models](https://research.swtch.com/mm)
+
 # C#
 ## Async Programming
 - [Async constructors](https://blog.stephencleary.com/2013/01/async-oop-2-constructors.html)
@@ -79,3 +84,5 @@ This got pieced together from a few different sources:
 2. Figure out which revision you want to revert to: ```git log --pretty=oneline```
 3. Hard reset your local checkout: ```git reset --hard <revision checksum>```
 4. Push your local checkout to the remote so it overwrites remote history with your local history: ```git push --force <remote name> HEAD```
+
+
