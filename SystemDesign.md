@@ -6,3 +6,4 @@
 
 # SaaS/Infrastructure
 - [Configuring and Managing Kubernetes Networking, Services, and Ingress](https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-networking-services-ingress/table-of-contents)
+- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
