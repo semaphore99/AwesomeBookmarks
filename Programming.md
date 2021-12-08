@@ -3,6 +3,12 @@
 ## Go Memory Model
 - [3-part series on Memory models](https://research.swtch.com/mm)
 
+# React
+
+## Testing
+
+- [Checking location in tests using memory router](https://v5.reactrouter.com/web/guides/testing/checking-location-in-tests)
+
 # C#
 ## Async Programming
 - [Async constructors](https://blog.stephencleary.com/2013/01/async-oop-2-constructors.html)
